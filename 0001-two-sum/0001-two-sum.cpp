@@ -5,13 +5,10 @@ public:
         map <int,int> mapp;
 
         for(int i=0;i<n;i++){
-            if(mapp[target-nums[i]]>0){
-                idx2 = i;
-                break;
-            }
+            if(mapp.find(target - nums[i]) != mapp.end())return {mapp[target - nums[i]],i};
             mapp[nums[i]] = i;
         }
         
-        return {mapp[target - nums[idx2]],idx2};
+        return {};
     }
 };
