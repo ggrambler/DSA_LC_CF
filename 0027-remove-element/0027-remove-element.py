@@ -3,7 +3,6 @@ class Solution:
         count = sum([1 if x==val else 0 for x in nums])
         n = len(nums)
 
-        i = 0
         l = 0
         r = n-1
 
@@ -16,9 +15,7 @@ class Solution:
                 if r<=-1: break
             if l<r:
                 nums[l],nums[r] = nums[r],nums[l]
-                print('swapped',nums)
-
-
+                
         return n-count
         
         
