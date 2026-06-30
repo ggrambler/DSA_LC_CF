@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ggrambler/DSA_LC_CF/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/ggrambler/DSA_LC_CF/tree/master/0303-range-sum-query-immutable) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
