@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ggrambler/DSA_LC_CF/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0119-pascals-triangle-ii) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ggrambler/DSA_LC_CF/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
