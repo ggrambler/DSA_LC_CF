@@ -13,6 +13,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/ggrambler/DSA_LC_CF/tree/master/0289-game-of-life) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ggrambler/DSA_LC_CF/tree/master/0289-game-of-life) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/3286-find-a-safe-walk-through-a-grid) |
