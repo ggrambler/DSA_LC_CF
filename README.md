@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/ggrambler/DSA_LC_CF/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/ggrambler/DSA_LC_CF/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -118,5 +119,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/ggrambler/DSA_LC_CF/tree/master/0289-game-of-life) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/ggrambler/DSA_LC_CF/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
