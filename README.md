@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
+| [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -119,6 +121,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/ggrambler/DSA_LC_CF/tree/master/0289-game-of-life) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
