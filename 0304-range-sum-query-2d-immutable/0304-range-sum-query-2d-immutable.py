@@ -12,8 +12,6 @@ class NumMatrix:
         for i in range(1,r):
             for j in range(1,c):
                 self.summ[i][j] = self.summ[i-1][j]+self.summ[i][j-1]-self.summ[i-1][j-1]+m[i][j]
-        # for row in self.summ:
-        #     print(row)
 
 
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
@@ -23,7 +21,3 @@ class NumMatrix:
         d = self.summ[row1-1][col1-1] if row1-1>=0 and col1-1>=0 else 0
         return a-b-c+d
 
-
-# Your NumMatrix object will be instantiated and called as such:
-# obj = NumMatrix(matrix)
-# param_1 = obj.sumRegion(row1,col1,row2,col2)
