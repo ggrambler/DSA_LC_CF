@@ -3,17 +3,18 @@ class Solution:
         if not nums:
             return 0
 
-        nums.sort()
+        s = set(nums)
+        ans = 0
+        
+        for x in s:
+            if x-1 not in s:
+                cx = x
+                l = 1
 
-        longest_streak = 1
-        current_streak = 1
-
-        for i in range(1, len(nums)):
-            if nums[i] != nums[i - 1]:
-                if nums[i] == nums[i - 1] + 1:
-                    current_streak += 1
-                else:
-                    longest_streak = max(longest_streak, current_streak)
-                    current_streak = 1
-
-        return max(longest_streak, current_streak)
+                while cx+1 in s:
+                    l+=1
+                    cx+=1
+                
+                ans = max(ans,l)
+        
+        return ans
