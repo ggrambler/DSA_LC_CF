@@ -13,8 +13,6 @@ class Solution:
                 le[base] = i+1
             elif le[base]!=-1:
                 ue[base] = i+1
-
-        for i in range(n+1):
-            ans = max(ans,ue[i]-le[i])
-        
+            ans = max(ans,ue[base]-le[base])
+            
         return ans     
