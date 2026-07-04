@@ -15,7 +15,6 @@ class Solution:
                 ue[base] = i+1
 
         for i in range(n+1):
-            if ue[i]!=-1 and le[i]!=-1:
-                ans = max(ans,ue[i]-le[i])
+            ans = max(ans,ue[i]-le[i])
         
         return ans     
