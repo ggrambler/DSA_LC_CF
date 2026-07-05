@@ -15,7 +15,6 @@ class Solution:
             for x in range(u,v):
                 d[x] = 1
 
-        # print(d,points)
         ans = []
         for pp in points:
             if d[pp]!=1 and d[pp-1]!=1:
@@ -32,10 +31,6 @@ class Solution:
                     ep = idx
                     ans.append([sp,ep])
                     sp = None
-        # print(ans)
-
-
-
 
         return ans
         
