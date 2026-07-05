@@ -27,6 +27,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/ggrambler/DSA_LC_CF/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ggrambler/DSA_LC_CF/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0525-contiguous-array) |
@@ -67,6 +68,7 @@
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +88,7 @@
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
