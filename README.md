@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ggrambler/DSA_LC_CF/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ggrambler/DSA_LC_CF/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ggrambler/DSA_LC_CF/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ggrambler/DSA_LC_CF/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ggrambler/DSA_LC_CF/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0525-contiguous-array) |
