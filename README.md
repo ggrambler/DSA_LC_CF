@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
