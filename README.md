@@ -135,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/0058-length-of-last-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
