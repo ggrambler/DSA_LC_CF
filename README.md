@@ -150,6 +150,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ggrambler/DSA_LC_CF/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Breadth-First Search
 |  |
 | ------- |
