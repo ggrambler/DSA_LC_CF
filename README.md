@@ -15,6 +15,7 @@
 | [0057-insert-interval](https://github.com/ggrambler/DSA_LC_CF/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ggrambler/DSA_LC_CF/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ggrambler/DSA_LC_CF/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
@@ -123,6 +125,7 @@
 | [0011-container-with-most-water](https://github.com/ggrambler/DSA_LC_CF/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ggrambler/DSA_LC_CF/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ggrambler/DSA_LC_CF/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0283-move-zeroes) |
