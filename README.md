@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ggrambler/DSA_LC_CF/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ggrambler/DSA_LC_CF/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ggrambler/DSA_LC_CF/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/0056-merge-intervals) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ggrambler/DSA_LC_CF/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ggrambler/DSA_LC_CF/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0283-move-zeroes) |
