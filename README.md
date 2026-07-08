@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/ggrambler/DSA_LC_CF/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ggrambler/DSA_LC_CF/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0073-set-matrix-zeroes) |
@@ -102,12 +103,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
