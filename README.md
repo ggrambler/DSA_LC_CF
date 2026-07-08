@@ -64,6 +64,7 @@
 | [0525-contiguous-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0058-length-of-last-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/0058-length-of-last-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ggrambler/DSA_LC_CF/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
