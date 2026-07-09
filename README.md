@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/ggrambler/DSA_LC_CF/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ggrambler/DSA_LC_CF/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ggrambler/DSA_LC_CF/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ggrambler/DSA_LC_CF/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ggrambler/DSA_LC_CF/tree/master/0057-insert-interval) |
@@ -161,6 +162,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ggrambler/DSA_LC_CF/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ggrambler/DSA_LC_CF/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -183,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ggrambler/DSA_LC_CF/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
