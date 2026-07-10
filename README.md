@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
+| [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ggrambler/DSA_LC_CF/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -85,6 +86,7 @@
 | [0525-contiguous-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
+| [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
@@ -109,6 +111,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
+| [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
+| [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +148,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 ## Binary Search
 |  |
 | ------- |
