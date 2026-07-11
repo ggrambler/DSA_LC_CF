@@ -9,12 +9,12 @@ class Solution:
         while count < n:
             curr = start
             stored = nums[start]
-
             while True:
                 nxt = (curr + k) % n
                 nums[nxt], stored = stored, nums[nxt]
                 curr = nxt
                 count += 1
+                # print(curr,stored,nums)
 
                 if curr == start:
                     break
