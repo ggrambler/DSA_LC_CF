@@ -47,6 +47,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ggrambler/DSA_LC_CF/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -88,6 +89,7 @@
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
@@ -113,6 +115,7 @@
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
