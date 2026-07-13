@@ -234,4 +234,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ggrambler/DSA_LC_CF/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
