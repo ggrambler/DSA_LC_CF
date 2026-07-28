@@ -80,6 +80,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ggrambler/DSA_LC_CF/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -147,6 +148,7 @@
 | [0075-sort-colors](https://github.com/ggrambler/DSA_LC_CF/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0202-happy-number) |
 | [0259-3sum-smaller](https://github.com/ggrambler/DSA_LC_CF/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/ggrambler/DSA_LC_CF/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0287-find-the-duplicate-number) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ggrambler/DSA_LC_CF/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ggrambler/DSA_LC_CF/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
