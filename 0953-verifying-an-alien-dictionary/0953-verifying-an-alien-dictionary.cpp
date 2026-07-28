@@ -16,18 +16,12 @@ private:
     }
 public:
     bool isAlienSorted(vector<string>& words, string order) {
-        
         map <char,int> val;
         int v = 0;
+
         for(char ch:order)val[ch] = 26-v++;
 
-        int n = words.size();
-
-        for(int i=0;i<n-1;i++){
-            if (!cmp(val,words[i],words[i+1])){
-                return false;
-            }
-        }
+        for(int i=0;i<words.size()-1;i++)if (!cmp(val,words[i],words[i+1]))return false;
         return true;
     }
 };
