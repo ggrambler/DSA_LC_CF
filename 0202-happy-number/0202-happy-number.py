@@ -2,9 +2,7 @@ class Solution:
     def isHappy(self, n: int) -> bool:
         visi = defaultdict(int)
 
-        c = 10
-        while c:
-            c-=1
+        while True:
             if n==1 : return True
             if visi[n]==1: return False
 
@@ -13,7 +11,6 @@ class Solution:
             while n:
                 newnum += (n%10)**2
                 n = n//10
-            # print(newnum)
             n =  newnum
 
         return False
