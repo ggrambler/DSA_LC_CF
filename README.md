@@ -45,6 +45,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ggrambler/DSA_LC_CF/tree/master/0645-set-mismatch) |
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/0058-length-of-last-word) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
