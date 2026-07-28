@@ -3,33 +3,20 @@ class Solution:
         n = len(words)
 
         value = {}
-        for i in range(len(order)):
-            value[order[i]] = 26-i
-        # print(value)
+        for i in range(len(order)): value[order[i]] = 26-i
 
         def cmp(worda,wordb):
-            # print('called', worda,wordb,len(worda),len(wordb))
-
-            alen = len(worda)
-            blen = len(wordb)
-
-            nn = min(alen,blen) 
+            alen,blen = len(worda),len(wordb)
 
             start = 0
-            while start<nn:
-                # print(worda[start])
+            while start<min(alen,blen):
                 if value[worda[start]]>value[wordb[start]]:
                     return True
                 elif value[worda[start]]==value[wordb[start]]:
                     start+=1
                     continue
-                else:
-                    return False
                 return False
-            
-            if alen>blen:
-                return False
-
+            if alen>blen: return False
             return True
         
         for i in range(n-1):
