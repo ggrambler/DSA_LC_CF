@@ -51,6 +51,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ggrambler/DSA_LC_CF/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ggrambler/DSA_LC_CF/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
@@ -119,6 +120,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ggrambler/DSA_LC_CF/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ggrambler/DSA_LC_CF/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ggrambler/DSA_LC_CF/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
@@ -236,6 +239,7 @@
 | [0011-container-with-most-water](https://github.com/ggrambler/DSA_LC_CF/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ggrambler/DSA_LC_CF/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Monotonic Stack
 |  |
 | ------- |
