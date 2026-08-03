@@ -84,6 +84,7 @@
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ggrambler/DSA_LC_CF/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/ggrambler/DSA_LC_CF/tree/master/0409-longest-palindrome) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/ggrambler/DSA_LC_CF/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ggrambler/DSA_LC_CF/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/ggrambler/DSA_LC_CF/tree/master/0771-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
