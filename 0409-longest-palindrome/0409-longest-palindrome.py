@@ -6,14 +6,12 @@ class Solution:
 
         freq = defaultdict(int)
         for ch in s:freq[ch]+=1
-        print(freq)
 
         for k,v in freq.items():
-            if v%2==0:
-                ans+=v
-            else:
-                maxodd = 1
-                ans+=(v-1)
+            ans = ans+v if v%2==0 else ans+v-1
+            if maxodd == 0:
+                if v%2==1:
+                    maxodd=1
         
         return ans+maxodd
 
