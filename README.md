@@ -47,6 +47,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/ggrambler/DSA_LC_CF/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/ggrambler/DSA_LC_CF/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ggrambler/DSA_LC_CF/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -93,6 +94,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ggrambler/DSA_LC_CF/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/ggrambler/DSA_LC_CF/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
