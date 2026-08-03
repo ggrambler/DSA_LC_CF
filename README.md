@@ -86,6 +86,7 @@
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0409-longest-palindrome](https://github.com/ggrambler/DSA_LC_CF/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0525-contiguous-array) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/0058-length-of-last-word) |
+| [0409-longest-palindrome](https://github.com/ggrambler/DSA_LC_CF/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/ggrambler/DSA_LC_CF/tree/master/0771-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ggrambler/DSA_LC_CF/tree/master/0953-verifying-an-alien-dictionary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -242,6 +244,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ggrambler/DSA_LC_CF/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0409-longest-palindrome](https://github.com/ggrambler/DSA_LC_CF/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ggrambler/DSA_LC_CF/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Monotonic Stack
