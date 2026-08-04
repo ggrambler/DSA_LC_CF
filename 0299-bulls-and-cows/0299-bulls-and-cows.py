@@ -1,12 +1,12 @@
 class Solution:
     def getHint(self, sec: str, gg: str) -> str:
 
-        pob = []
+        bull = 0
         cows = 0
 
         for i in range(len(sec)):
             if sec[i]==gg[i]:
-                pob.append(i)
+                bull+=1
 
         freq1 = defaultdict(int)
         freq2 = defaultdict(int)
@@ -17,5 +17,5 @@ class Solution:
         for ch in sec:s.add(ch)
         for ch in s:cows+=min(freq1[ch],freq2[ch])
         
-        return str(len(pob))+"A"+str(cows-len(pob))+"B"
+        return str(bull)+"A"+str(cows-bull)+"B"
         
