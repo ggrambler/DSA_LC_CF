@@ -1,21 +1,16 @@
+from collections import Counter
+
 class Solution:
     def getHint(self, sec: str, gg: str) -> str:
 
-        bull = 0
+        bull = sum([1 if sec[i]==gg[i] else 0 for i in range(len(sec))])
+
         cows = 0
+        freq1 = Counter(sec)
+        freq2 = Counter(gg)
 
-        for i in range(len(sec)):
-            if sec[i]==gg[i]:
-                bull+=1
-
-        freq1 = defaultdict(int)
-        freq2 = defaultdict(int)
-        for ch in sec:freq1[ch]+=1
-        for ch in gg:freq2[ch]+=1
-
-        s = set()
-        for ch in sec:s.add(ch)
-        for ch in s:cows+=min(freq1[ch],freq2[ch])
+        for ch,v in freq1.items():
+            cows+=min(freq1[ch],freq2[ch])
         
         return str(bull)+"A"+str(cows-bull)+"B"
         
