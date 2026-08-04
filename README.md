@@ -86,6 +86,7 @@
 | [0202-happy-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ggrambler/DSA_LC_CF/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ggrambler/DSA_LC_CF/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/ggrambler/DSA_LC_CF/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ggrambler/DSA_LC_CF/tree/master/0383-ransom-note) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/ggrambler/DSA_LC_CF/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ggrambler/DSA_LC_CF/tree/master/0383-ransom-note) |
 | [0923-3sum-with-multiplicity](https://github.com/ggrambler/DSA_LC_CF/tree/master/0923-3sum-with-multiplicity) |
 ## Two Pointers
@@ -184,6 +186,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/ggrambler/DSA_LC_CF/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/ggrambler/DSA_LC_CF/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ggrambler/DSA_LC_CF/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ggrambler/DSA_LC_CF/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ggrambler/DSA_LC_CF/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/ggrambler/DSA_LC_CF/tree/master/0771-jewels-and-stones) |
