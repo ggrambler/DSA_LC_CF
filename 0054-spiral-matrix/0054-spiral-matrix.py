@@ -9,9 +9,10 @@ class Solution:
         rb = col
         tb = 0
         bb = row
+        d = [0,+1]
 
-        def nextstep(r,c,d):
-            nonlocal lb,rb,tb,bb
+        def nextstep(r,c):
+            nonlocal lb,rb,tb,bb,d
 
             nr = r+d[0]
             nc = c+d[1]
@@ -37,19 +38,14 @@ class Solution:
                 nr+=1
                 lb+=1
         
-            return (nr,nc,d)
+            return (nr,nc)
         
         ans = [mat[0][0]]
 
-        r = 0
-        c = 0
-        d = [0,+1]
-        cc = 0
+        r = c = 0
         while num:
-            r,c,d = nextstep(r,c,d)
-            # print(r,c,d)
+            r,c = nextstep(r,c)
             ans.append(mat[r][c])
             num-=1
-            
 
         return ans
