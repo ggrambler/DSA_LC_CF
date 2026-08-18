@@ -4,8 +4,6 @@ class Solution:
         n = len(nums)
         if n==1:
             return False
-        if n<k:
-            k=n
 
         for i in range(min(n,k+1)):
             mapp[nums[i]]+=1
