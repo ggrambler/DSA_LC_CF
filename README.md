@@ -25,6 +25,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ggrambler/DSA_LC_CF/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0219-contains-duplicate-ii) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ggrambler/DSA_LC_CF/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/ggrambler/DSA_LC_CF/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
