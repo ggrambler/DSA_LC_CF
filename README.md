@@ -27,6 +27,7 @@
 | [0152-maximum-product-subarray](https://github.com/ggrambler/DSA_LC_CF/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ggrambler/DSA_LC_CF/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ggrambler/DSA_LC_CF/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0240-search-a-2d-matrix-ii) |
 | [0259-3sum-smaller](https://github.com/ggrambler/DSA_LC_CF/tree/master/0259-3sum-smaller) |
@@ -86,6 +87,7 @@
 | [0169-majority-element](https://github.com/ggrambler/DSA_LC_CF/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ggrambler/DSA_LC_CF/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ggrambler/DSA_LC_CF/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ggrambler/DSA_LC_CF/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ggrambler/DSA_LC_CF/tree/master/0290-word-pattern) |
@@ -203,6 +205,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ggrambler/DSA_LC_CF/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ggrambler/DSA_LC_CF/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
